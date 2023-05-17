@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058325763048",
+    "project_id": "cara-hilangkan-iklan-di-eb59d",
+    "storage_bucket": "cara-hilangkan-iklan-di-eb59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058325763048:android:21a8019d32f3f7b90a4a5d",
+        "android_client_info": {
+          "package_name": "com.tukangnggedabrus.crhlngkniklndihp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058325763048-hhadgu3d3tbk480k8ibfa3gr07k81krn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKJGNfluqyidBlBdrDfYZ2CETOC_KLv9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058325763048-hhadgu3d3tbk480k8ibfa3gr07k81krn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
